@@ -1,8 +1,8 @@
  ## ![](https://github.com/anaskhan28/anaskhan28/blob/main/Assest/header_.png)
-<img alt="Coder GIF"  height= 75  src = "https://github.com/anaskhan28/anaskhan28/blob/main/Assest/Hello.gif" /> </div>
+<img alt="Coder GIF"  height= 50 src = "https://github.com/anaskhan28/anaskhan28/blob/main/Assest/Hello.gif" /> </div>
 
-<img align="right" alt="Coder GIF" height=200 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
-<img align="right" alt="Coder GIF" height=200 src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/finance.gif" />
+<img align="right" alt="Coder GIF" height=150 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img align="right" alt="Coder GIF" height=150 src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/finance.gif" />
 <br>
 
  

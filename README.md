@@ -2,7 +2,7 @@
 <img alt="Coder GIF"  height= 50 src = "https://github.com/anaskhan28/anaskhan28/blob/main/Assest/Hello.gif" /> </div>
 
 <img align="right" alt="Coder GIF" height=150 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
-<img align="right" alt="Coder GIF" height=150 src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/finance.gif" />
+<img align="right" alt="Coder GIF" height=120 src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/finance.gif" />
 <br>
 
  
@@ -31,9 +31,9 @@ A **Technophile** <img src="https://github.com/anaskhan28/anaskhan28/blob/main/A
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=anaskhan28&show_icons=true&hide_border=true&theme=white" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=anaskhan28&show_icons=true&hide_border=true&theme=white" width="47%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=anaskhan28&theme=white" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=anaskhan28&theme=white" width="50%" >
 
 <br>
 

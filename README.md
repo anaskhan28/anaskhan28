@@ -37,5 +37,17 @@ A **Technophile** <img src="https://github.com/anaskhan28/anaskhan28/blob/main/A
 
 <br>
 
-<div align="center">
+## 👨 Connect With Me
+ <p align="left">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQLxvDbzwfXgdzFHkGQgNxszcccjFDJXGJbKRjcpsTNmBSdfcNFxVBtKCtCSQkvVfRZSfq" target = "_blank" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
+  <a href="https://twitter.com/anaskhan_28" target = "_blank"  alt="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=flat-square&logo=Twitter&logoColor=white&link=LINK-DO-SEU-TWITTER"/></a>
+ 
+ <a href="https://www.linkedin.com/in/khan-anas-993aa91b7/" target = "_blank" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN"/></a>
+
+  <a href="https://www.instagram.com/anaskhan.28/" target = "_blank" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  

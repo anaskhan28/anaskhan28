@@ -14,16 +14,16 @@ A **Technophile** <img src="https://github.com/anaskhan28/anaskhan28/blob/main/A
 
 ## 👨‍💻 Languages and Tools
 <div align="center">
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/html.png?raw=true" height="60" width="60">
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/c.png?raw=true" height="60" width="60">
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/c++.png?raw=true" height="60" width="60">
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/java.png?raw=true" height="60" width="60">
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/flutter.png?raw=true" height="60" width="60">
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/android.png?raw=true" height="60" width="60">
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/css.png?raw=true" height="40">
+<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/html.png?raw=true" height="40" >
+<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/c.png?raw=true" height="40">
+<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/c++.png?raw=true" height="40" >
+<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/java.png?raw=true" height="40">
+<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/python.png?raw=true" height="40">
+<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/flutter.png?raw=true" height="40">
+<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/android.png?raw=true" height="40">
+<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/git.png?raw=true" height="40" >
+<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/vs.png?raw=true" height="40">
 
 </div>
 <br>
@@ -37,10 +37,8 @@ A **Technophile** <img src="https://github.com/anaskhan28/anaskhan28/blob/main/A
 
 <br>
 
-## 👨 Connect With Me
+## 👨 Connect with Me
  <p align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQLxvDbzwfXgdzFHkGQgNxszcccjFDJXGJbKRjcpsTNmBSdfcNFxVBtKCtCSQkvVfRZSfq" target = "_blank" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://twitter.com/anaskhan_28" target = "_blank"  alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=flat-square&logo=Twitter&logoColor=white&link=LINK-DO-SEU-TWITTER"/></a>

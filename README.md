@@ -38,6 +38,12 @@ A **Technophile** <img src="https://github.com/anaskhan28/anaskhan28/blob/main/A
 <br>
 
 ## 👨 Connect with Me
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<p align="left">
+ Myslef Anas Khan
+ </p>
+
  <p align="left">
 
   <a href="https://twitter.com/anaskhan_28" target = "_blank"  alt="Twitter">

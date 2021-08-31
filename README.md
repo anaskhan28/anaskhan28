@@ -49,7 +49,7 @@ A **Technophile** <img src="https://github.com/anaskhan28/anaskhan28/blob/main/A
   <a href="https://twitter.com/anaskhan_28" target = "_blank"  alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=flat-square&logo=Twitter&logoColor=white&link=LINK-DO-SEU-TWITTER"/></a>
  
- <a href="https://www.linkedin.com/in/khan-anas-993aa91b7/" target = "_blank" alt="Linkedin">
+ <a href="https://www.linkedin.com/in/anas-khan-993aa91b7/" target = "_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN"/></a>
 
   <a href="https://www.instagram.com/anaskhan.28/" target = "_blank" alt="Instagram">

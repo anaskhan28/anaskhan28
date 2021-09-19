@@ -7,8 +7,8 @@
 
  
 
-I am currently pursuing Diploma in Computer Engineering from [GPM](https://gpmumbai.ac.in/gpmweb/). <br><br>
-A **Technophile** <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/Developer.gif" width="30px"> and a **Finance Enthusiast** <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/stock.gif" width="30px">, who is obsessed with the idea of finance and tech to explore various things.
+ Myself **Anas Khan** I am currently pursuing Diploma in Computer Engineering from [GPM](https://gpmumbai.ac.in/gpmweb/). <br><br>
+ Trying to learn new cool things.
 <br>
 <br>
 
@@ -43,7 +43,7 @@ A **Technophile** <img src="https://github.com/anaskhan28/anaskhan28/blob/main/A
 <p align="left">
 
  
-## Myself Anas Khan
+
 
  </p>
 

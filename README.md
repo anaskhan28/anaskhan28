@@ -1,14 +1,12 @@
  ## ![](https://github.com/anaskhan28/anaskhan28/blob/main/Assest/header_.png)
 <img alt="Coder GIF"  height= 50 src = "https://github.com/anaskhan28/anaskhan28/blob/main/Assest/Hello.gif" /> </div>
 
-<img align="right" alt="Coder GIF" height=300 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img align="right" alt="Coder GIF" height=250 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 <br>
 
- 
-
- Myself **Anas Khan** I am currently pursuing Diploma in Computer Engineering from [GPM](https://gpmumbai.ac.in/gpmweb/). <br><br>
- Trying to learn new cool things.
+ Myself **Anas Khan** and I am currently pursuing Diploma in Computer Engineering from [GPM](https://gpmumbai.ac.in/gpmweb/). <br><br>
+ **Trying to learn new cool things**
 <br>
 <br>
 

@@ -5,7 +5,7 @@
 
 <br>
 
- Myself **Anas Khan** and I am currently major pursuing Diploma in Computer Engineering from [GPM](https://gpmumbai.ac.in/gpmweb/). <br><br>
+ Myself **Anas Khan** and I am currently pursuing major Diploma in Computer Engineering from [GPM](https://gpmumbai.ac.in/gpmweb/). <br><br>
  **Trying to learn new cool things**
 <br>
 <br>

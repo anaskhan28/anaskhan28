@@ -5,8 +5,8 @@
 
 <br>
 
- Myself **Anas Khan** and I am currently pursuing major Diploma in Computer Engineering from [GPM](https://gpmumbai.ac.in/gpmweb/). <br><br>
- **Trying to learn new cool things**
+ I am **Abdus Salam** and I am pursuing my Tech jorney in BCA at [IGNOU](https://igbou.ac.in/). <br><br>
+ **Exploring amazing things in Tech**
 <br>
 <br>
 
@@ -29,13 +29,13 @@
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=anaskhan28&show_icons=true&hide_border=false&theme=black" width="47%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=abdusssalam02&show_icons=true&hide_border=false&theme=black" width="47%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=anaskhan28&theme=black" width="50%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=abdussalam02&theme=black" width="50%" >
 
 <br>
 
-## 👨 Connect with Me
+## 👨 Connect with Me On
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 <p align="left">
@@ -47,12 +47,12 @@
 
  <p align="left">
 
-  <a href="https://twitter.com/anaskhan_28" target = "_blank"  alt="Twitter">
+  <a href="https://twitter.com/_aladdin_02" target = "_blank"  alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=flat-square&logo=Twitter&logoColor=white&link=LINK-DO-SEU-TWITTER"/></a>
  
- <a href="https://www.linkedin.com/in/anas-khan-993aa91b7/" target = "_blank" alt="Linkedin">
+ <a href="https://www.linkedin.com/in/abdus-salam-06278a217/" target = "_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN"/></a>
 
-  <a href="https://www.instagram.com/anaskhan.28/" target = "_blank" alt="Instagram">
+  <a href="https://www.instagram.com/abdussalam_02/" target = "_blank" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  

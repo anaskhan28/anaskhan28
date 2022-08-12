@@ -8,7 +8,7 @@
  Myself **Anas Khan** and I am currently pursuing major Diploma in Computer Engineering from [GPM](https://gpmumbai.ac.in/gpmweb/). <br><br>
  **summary:** 
  <br>
- I’m versatile in learning & expeirencing different fields. I have a keen interest in Web Development and Finance. I like designing & building products that positively impact the lives of users. I don't associate myself with specific tools and technology. They are merely the means to build. This mindset has helped me be a quick learner and concentrate more on solving the problem at hand.
+ I’m versatile in learning & experiencing different fields. I have a keen interest in Web Development and Finance. I like designing & building products that positively impact the lives of users. I don't associate myself with specific tools and technology. They are merely the means to build. This mindset has helped me be a quick learner and concentrate more on solving the problem at hand.
 
 <br>
 <br>

@@ -1,6 +1,6 @@
 
 
-[![](https://visitcount.itsvg.in/api?id=anaskhan28&icon=5&color=11)](https://visitcount.itsvg.in)
+<img src = "https://github.com/anaskhan28/anaskhan28/blob/main/Assest/Developer.gif"> <span>  [![](https://visitcount.itsvg.in/api?id=anaskhan28&icon=5&color=11)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 I’m versatile in learning & experiencing different fields. <br>I have a keen interest in Web Development and Finance. <br>I like designing & building products that positively impact the lives of users. <br>I don't associate myself with specific tools and technology. <br>They are merely the means to build

@@ -4,7 +4,6 @@
 
 
 # 💫 About Me:
-<img src = "https://github.com/anaskhan28/anaskhan28/blob/main/Assest/naruto.gif" align="right"> 
 I’m versatile in learning & experiencing different fields. <br>I have a keen interest in Web Development and Finance.<br>I like designing & building products that positively impact the lives of users. <br>I don't associate myself with specific tools and technology. <br>They are merely the means to build
 
 

@@ -1,6 +1,6 @@
 
 
-<img src = "https://github.com/anaskhan28/anaskhan28/blob/main/Assest/Developer.gif"> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src = "https://github.com/anaskhan28/anaskhan28/blob/main/Assest/Developer.gif"> ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 
 # 💫 About Me:

@@ -1,6 +1,6 @@
 
 
-<img src = "https://github.com/anaskhan28/anaskhan28/blob/main/Assest/Developer.gif"> <span>  
+<img src = "https://github.com/anaskhan28/anaskhan28/blob/main/Assest/Developer.gif"> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 # 💫 About Me:
@@ -21,8 +21,7 @@ I’m versatile in learning & experiencing different fields. <br>I have a keen i
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anaskhan28&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 

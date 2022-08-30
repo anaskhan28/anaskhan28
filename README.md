@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning React
 - 🔭 I’m currently working on Frontend projects
-- 👯 I’m looking to collaborate on More on Real World Problems and OpenSource 🙂
+- 👯 I’m looking to collaborate More on Real World Problems and OpenSource 🙂
 - 💬 Ask me about Web and Finance 😁
 - ✨ Ultra extrovert 😉
 - ⚡ Fun fact: I ❤️ food, travelling and 😺s

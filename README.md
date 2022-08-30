@@ -18,10 +18,7 @@ I’m versatile in learning & experiencing different fields. <br>I have a keen i
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anaskhan28&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anaskhan28&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anaskhan28&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-
+## 💹 Github Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anaskhan28&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 ---
 

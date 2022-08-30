@@ -8,6 +8,10 @@
 
 - 🌱 I’m currently learning React
 - 🔭 I’m currently working on Frontend projects
+- 👯 I’m looking to collaborate on More on Real World Problems and OpenSource 🙂
+- 💬 Ask me about Web and Finance 😁
+- ✨ Ultra extrovert 😉
+- ⚡ Fun fact: I ❤️ food, travelling and 😺s
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/anas-khan-993aa91b7/" target="blank" >

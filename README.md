@@ -22,6 +22,6 @@ I’m versatile in learning & experiencing different fields. <br>I have a keen i
 ![](https://github-profile-trophy.vercel.app/?username=anaskhan28&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anaskhan28&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 ---
 

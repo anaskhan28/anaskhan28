@@ -47,6 +47,7 @@
  ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Java-F7AF1E?style=for-the-badge&logo=java&logoColor=black)
 ![](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -54,17 +55,12 @@
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-
-
-
-
 <br>
-
 
 <br>
 <!--  <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaskhan28&layout=compact&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=000&text_color=000"  align="center" height="165" /></a> -->
  <p align="center" >
- <a href="#"><img alt="Rameshchandra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaskhan28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a></p>
+ <a href="#"><img alt="Anas Khan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaskhan28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a></p>
 
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
 

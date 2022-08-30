@@ -18,7 +18,7 @@ I’m versatile in learning & experiencing different fields. <br>I have a keen i
 
 ## 💹 Github Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anaskhan28&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
-## 💹 Daily Quotes
+## ✨ Daily Quotes
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 

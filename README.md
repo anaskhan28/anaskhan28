@@ -1,6 +1,7 @@
 
 
-<img src = "https://github.com/anaskhan28/anaskhan28/blob/main/Assest/Developer.gif" style="margin-left:2.5em"> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ 
+
 
 
 # 💫 About Me:
@@ -19,6 +20,8 @@ I’m versatile in learning & experiencing different fields. <br>I have a keen i
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anaskhan28&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 💹 Github Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anaskhan28&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anaskhan28&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+## 💹 Daily Quotes
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 

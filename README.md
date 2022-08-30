@@ -1,6 +1,7 @@
 
 <img src = "https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" align = "center"></img>
-<br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 💫 About Me:
 I’m versatile in learning & experiencing different fields. <br>I have a keen interest in Web Development and Finance.<br>I like designing & building products that positively impact the lives of users. <br>I don't associate myself with specific tools and technology. <br>They are merely the means to build.
 
@@ -15,10 +16,9 @@ I’m versatile in learning & experiencing different fields. <br>I have a keen i
 ![](https://github-readme-stats.vercel.app/api?username=anaskhan28&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anaskhan28&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anaskhan28&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
 ## 💹 Github Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anaskhan28&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
-## ✨ Daily Quotes
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+ 
 ---
 

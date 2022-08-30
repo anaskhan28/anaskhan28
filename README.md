@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffecd2&size=29&multiline=true&width=700&lines=Hey+Anas+Khan+here)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffecd2&size=29&multiline=true&width=700&lines=Welcome+To+The+Anas+Khan's+Github+Profile)](https://git.io/typing-svg)
 
 <img src = "https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" align = "center"></img>
 

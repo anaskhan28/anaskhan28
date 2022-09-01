@@ -33,7 +33,7 @@
   <br>
   <br>
 
- ## My Blogs <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="28" />
+ ## My Blogs: <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="28" />
 <oi>
   <li>
 <a href="https://anaskhan28.hashnode.dev/open-source-is-overrated"><strong>Open Source is overrated</strong></a></li>

@@ -72,7 +72,7 @@
    <p align="center" >
  <a href="#"><img alt="Anas Khan's Github Stats"   src="https://github-readme-stats.vercel.app/api?username=anaskhan28&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
   <p align="center" >
- <a href="#"><img  alt="Anas Khan's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=anaskhan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
+ <a href="#"><img  alt="Anas Khan's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=anaskhan28&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
 
 
 <a href="#"><img alt="Anas Khan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anaskhan28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>

@@ -6,7 +6,7 @@
 
 # I'm a Tech Enthusiast!!</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
 
-- 🌱 I’m currently learning React ✌️
+- 🌱 I’m currently learning React and exploring web3 ✌️
 - 🔭 I’m currently working on Frontend projects 🤯
 - 👯 I’m looking to collaborate More on Real World Problems and OpenSource 🙂
 - 💬 Ask me about Web and Finance 😁

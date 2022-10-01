@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate More on Real World Problems and OpenSource 🙂
 - 💬 Ask me about Web and Finance 😁
 - ✨ Ultra extrovert 😉
-- ⚡ Fun fact: I ❤️ food, travelling and 😺s
+- ⚡ Fun fact: I ❤️ food, travelling and cats 😸
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/anas-khan-993aa91b7/" target="_blank" >

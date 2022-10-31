@@ -33,16 +33,9 @@
   <br>
   <br>
 
- ## My Blogs: <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="28" />
-<oi>
-  <li>
-<a href="https://anaskhan28.hashnode.dev/open-source-is-overrated"><strong>Open Source is overrated</strong></a></li>
-  <li>
-<a href="https://anaskhan28.hashnode.dev/why-i-want-to-be-a-developer"><strong>Why I want to be a Developer</strong></a></li>
-  <li>
-<a href="https://anaskhan28.hashnode.dev/awesome-online-tools-for-self-improving-as-a-developersoftware-engineer"><strong>Awesome Tools for Beginners</strong></a></li>
-    </li>
-
+## :books: Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
   </oi>
 <br>
 

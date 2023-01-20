@@ -65,9 +65,9 @@
 
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
 
-  
+   
    <p align="center" >
- <a href="#"><img alt="Anas Khan's Github Stats"   src="https://github-readme-stats.vercel.app/api?username=anaskhan28&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+ <a href="#"><img alt="Anas Khan's Github Stats"   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anaskhan28&theme=react&langs_count=5&layout=compact" /></p>
   <p align="center" >
  <a href="#"><img  alt="Anas Khan's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=anaskhan28&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
 
@@ -77,8 +77,12 @@
 <br>
 <a><img src="https://img.shields.io/github/followers/anaskhan28?label=Followers&style=social" alt="GitHub Badge"></a>
 
+
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=anaskhan28&color=orange&style=flat-square)
 
   ### <h1><p align ="center"> Have a great day <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px">
+
+  
 
  

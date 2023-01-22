@@ -68,11 +68,16 @@
    
    <p align="center" >
  <a href="#"><img alt="Anas Khan's Github Stats"   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anaskhan28&theme=react&langs_count=5&layout=compact" /></p>
+  
   <p align="center" >
- <a href="#"><img  alt="Anas Khan's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=anaskhan28&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
+  <a href="#"><img  alt="Anas Khan's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=anaskhan28&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /></p>
+    
+<p align="center" >
+  <a href="#">
+  <a href="https://github.com/anaskhan28/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anaskhan28&theme=react&langs_count=5&layout=compact" alt="Anas Khan's github stats" align = "center" /></a></p>
 
 
-<a href="#"><img alt="Anas Khan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anaskhan28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br />
 
 <br>
 <a><img src="https://img.shields.io/github/followers/anaskhan28?label=Followers&style=social" alt="GitHub Badge"></a>
